@@ -1,4 +1,4 @@
-<?
+
 // This is a template for a PHP scraper on morph.io (https://morph.io)
 // including some code snippets below that you should find helpful
 
@@ -24,4 +24,4 @@ print_r($dom->find("table.list"));
 // All that matters is that your final data is written to an SQLite database
 // called "data.sqlite" in the current working directory which has at least a table
 // called "data".
-?>
+
